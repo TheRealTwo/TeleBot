@@ -1,0 +1,5 @@
+aiogram
+asyncio
+emoji
+datetime
+urlextract
